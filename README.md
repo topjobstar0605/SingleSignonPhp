@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# SingleSignonPhp
-=======
 Single Sign-On for PHP (Ajax compatible)
 ---
 
@@ -143,4 +140,3 @@ jackie/jackie123
 john/john123
 
 _Note that after logging in, you need to refresh on the other brokers to see the effect._
->>>>>>> 4eb94797e437b856047414f2ae805ecd541f443b
